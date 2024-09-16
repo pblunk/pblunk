@@ -6,7 +6,7 @@ Web Developer and Designer
 
 I'm a self-taught designer and developer with 3 years of experience, passionate about creating functional, user-friendly websites and applications.
 
-* 🌍  I'm based in Oklahoma
+* 🌍  I'm based in Oklahoma, USA
 * 🖥️  See my portfolio at [Philip Blunk](http://philipblunk.com)
 * ✉️  You can contact me at [philipblunk@gmail.com](mailto:philipblunk@gmail.com)
 * 🧠  I'm learning React, Swift
