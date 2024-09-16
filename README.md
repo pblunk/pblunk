@@ -1,7 +1,7 @@
 Hi 👋 My name is Philip Blunk
 =============================
 
-Web Developer and Designer
+Web Designer and Developer
 --------------------------
 
 I'm a self-taught designer and developer with 3 years of experience, passionate about creating functional, user-friendly websites and applications.
